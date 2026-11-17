@@ -1,0 +1,6 @@
+path: c:\Users\ACER\Desktop\deep learning\lab dl\archive\data\yolo_dataset
+train: images/train
+val: images/val
+nc: 1
+names:
+- car
